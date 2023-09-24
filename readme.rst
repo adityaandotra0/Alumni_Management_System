@@ -30,16 +30,6 @@ Brief Project Features
 13 Verify/Unverify Registered Students.
 14 Search Students by Name,Batch,UID,Stream.
 
-*******************
-Screenshots
-*******************
-.. image:: https://github.com/karanloona/Alumni-Tracking-System-Codeigniter/blob/master/assets/img/ss6.png
-.. image:: https://github.com/karanloona/Alumni-Tracking-System-Codeigniter/blob/master/assets/img/ss1.png
-.. image:: https://github.com/karanloona/Alumni-Tracking-System-Codeigniter/blob/master/assets/img/ss2.png
-.. image:: https://github.com/karanloona/Alumni-Tracking-System-Codeigniter/blob/master/assets/img/ss3.png
-.. image:: https://github.com/karanloona/Alumni-Tracking-System-Codeigniter/blob/master/assets/img/ss4.png
-.. image:: https://github.com/karanloona/Alumni-Tracking-System-Codeigniter/blob/master/assets/img/ss5.png
-
 
 ###################
 What is CodeIgniter
